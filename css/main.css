@@ -2,3 +2,13 @@ h1 {
   font-size: 3rem;
   color: #22292e;
 }
+
+button {
+  display: inline-block;
+  min-width: 13rem;
+  border: none;
+  outline: none;
+  color: #22292e;
+  background: #e9e;
+  padding: 1rem 3rem;;
+}
